@@ -30,12 +30,10 @@ Here are the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
+![Your GitHub stats](https://github.com/AmitSharma404?tab=repositories)
 ## 🔥 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/your-github-username)
-
+[![Top Languages](https://github.com/AmitSharma404?tab=repositories)
 ## 🚧 Projects
 
 Here are a few repositories I'm proud of:
