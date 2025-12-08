@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Next JS , Express JS**
 
-- 👨‍💻 All of my projects are available at [Projects](https://portfolio3123.netlify.app)
-
-- 💬 Ask me about **Javascript HTML CSS**
-
 - 📫 How to reach me **sandy31524@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
