@@ -1,22 +1,67 @@
-<h1 align="left">Hi 👋, I'm Amit Sharma</h1>
-<h3 align="left">A full Stack developer from India</h3>
+<h1 align="left">Hi, I'm Amit Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsharma404&label=Profile%20views&color=0e75b6&style=flat" alt="amitsharma404" /> </p>
-
-- 🌱 I’m currently learning **Next JS , Express JS**
-
-- 📫 How to reach me **sandy31524@gmail.com**
-
+<p>A developer guy who turn into "it works on my machine" to "it’s gorgeous on every screen."
+I build interfaces so intuitive, even your grandma won’t call you for tech support.</p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amitsharma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitsharma404" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>MailMe</td>
+    <td>Sandy31524@gmail.com</td>
+  </tr>
+  <tr>
+        <td>Socials</td>
+        <td><a href="https://twitter.com/amitsharma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitsharma404" height="30" width="40" </a>
+          <a href="https://github.com/amitsharma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitsharma404" height="30" width="40" /></a>
+<a href="https://twitter.com/amitsharma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amitsharma404" height="30" width="40" /></a>
+<a href="https://discord.com/melman404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amitsharma404" height="30" width="40" /></a>
+        </td>
+  </tr>
+</table>
+
+<h1>lil about Me!</h1>
+
+| Focus Details | Details |
+| :--- | :--- |
+| **Currently Cooking** | Full Stack web applications using **Next.js** and **TailwindCSS**. |
+| **Learning Priority** | Backend development fundamentals, deployment strategies, and general full-stack architecture. |
+| **Fun About me** | ```I’m basically a wizard who trades caffeine for high-conversion buttons and pixel-perfect layouts.``` |
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="left">
+  <table>
+    <tr>
+      <!-- Programming Languages -->
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    </tr>
+    <tr>
+      <!-- Frontend / Frameworks -->
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
+    </tr>
+    <tr>
+      <!-- ML / Dev Tools -->
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
+    </tr>
+    <tr>
+      <!-- Databases / Cloud / Misc -->
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsharma404&show_icons=true&locale=en&layout=compact" alt="amitsharma404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsharma404&show_icons=true&locale=en" alt="amitsharma404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsharma404&" alt="amitsharma404" /></p>
