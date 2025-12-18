@@ -26,7 +26,7 @@ I build interfaces so intuitive, even your grandma won’t call you for tech sup
 | **Learning Priority** | Backend development fundamentals, deployment strategies, and general full-stack architecture. |
 | **Fun About me** | ```I’m basically a wizard who trades caffeine for high-conversion buttons and pixel-perfect layouts.``` |
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools I worked with</h2>
 <div align="left">
   <table>
     <tr>
