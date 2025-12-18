@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Amit Sharma</h1>
 
-<h4>A developer guy who turn into "it works on my machine" to "it’s gorgeous on every screen."
+<h4>A developer guy who turn to "it works on my machine" into "it’s gorgeous on every screen."
 I build interfaces so intuitive, even your grandma won’t call you for tech support.</h4>
 <h3 align="left">Connect with me:</h3>
 <table>
